@@ -63,3 +63,11 @@
   color: rgb(47, 4, 82);
   margin: 0.5rem 0;
 }
+
+input.showError {
+  background-color: rgb(211, 105, 105);
+}
+
+p.showError {
+  color: rgb(211, 105, 105);
+}
